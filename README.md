@@ -20,8 +20,12 @@ Visit http://192.168.8.1 in your browser.
 
 
 2.	After choosing your language, setup your Admin password for this site.
- !(https://github.com/tanjina907/VU_FALL22_IOT_CLASS/blob/Mango_RouterSetup-Tutorial/Screen%20Shot%202022-09-01%20at%208.23.29%20PM.png)
 
+  ![router setup](/.Mango_RouterSetup-Tutorial/Screen%20Shot%202022-09-01%20at%208.23.29%20PM.png)
+
+Click on submit to confirm the password.)
+
+ 
 Click on submit to confirm the password.
 
 After confirming the password you should able to see the screen. 
