@@ -1,16 +1,16 @@
-#Mango Router Setup Tutorial#
+# Mango Router Setup Tutorial #
 
 
 
 Hello everyone, for my second-class assignment I have chosen the Pocket router mango to set it up.
 
-#Setting Up# 
+## Setting Up ##
 Connect the router to a power port using an USB adaptor.
 The mini router will broadcast a Wifi Signal.  Use your laptop wifi setting to to find the wifi signal.  It should be name as GL-MT300Nv2-XXX
 
 After connecting into the wifi signal, using given password. The default password for this site is goodlife. 
 
-##Setting up the router##
+##  Setting up the router ##
 
 Visit http://192.168.8.1 in your browser. 
 
@@ -30,7 +30,7 @@ Visit http://192.168.8.1 in your browser.
  
 ![Screenshot](https://github.com/tanjina907/VU_FALL22_IOT_CLASS/blob/f7dd30ed9bca18c7e1cb2e822873e7db8b4ef380/Screen%20Shot%202022-09-06%20at%204.13.33%20PM.png)
  
-##Setting up the network:
+## Setting up the network ##:
 You can setup the network using the following process 
 1.	Cable (WAN) 
 2.	Repeater (Using Existing Wi-Fi)
@@ -38,7 +38,7 @@ You can setup the network using the following process
 4.	3G/4G modem.
 
 
-##Setting up the network using the Repeater: 
+## Setting up the network using the Repeater ## : 
 
 Using the repeater, you can connect the router to the available Wi-Fi/ mobile hotspot network.
 
@@ -59,7 +59,7 @@ As you can see into the below picture that there is a successful connection esta
  
 
 
-##To change the Network name :
+## To change the Network name :
  
 If you want to change the network name 
 1.	Click on the wireless from the left of the screen 
@@ -74,7 +74,7 @@ Below image is after successfully changing the name.
 ![screenshot](https://github.com/tanjina907/VU_FALL22_IOT_CLASS/blob/b04db47ca73934f5aa668ef94f52c869ddc1b2cc/Screen%20Shot%202022-09-06%20at%204.21.29%20PM.png)
 
 
-##Connecting clients to the router :
+## Connecting clients to the router  :
 
 Now the router network will work as a regular wi-fi network.
 1.	Find the network as an wi-fi network from your laptop/ mobile phone device. 
@@ -89,6 +89,6 @@ Below is the example how the clients are showing into the network.
 
 In this network, mobile network is not showing any name it just showing a star mark. 
 
-##You can also see the traffic for each network
+## You can also see the traffic for each network 
 ![screenshot](https://github.com/tanjina907/VU_FALL22_IOT_CLASS/blob/b04db47ca73934f5aa668ef94f52c869ddc1b2cc/Screen%20Shot%202022-09-06%20at%204.27.27%20PM.png)
  
