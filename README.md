@@ -45,13 +45,11 @@ Setting up the network using the Repeater:
 Using the repeater, you can connect the router to the available Wi-Fi/ mobile hotspot network.
 
  From the repeater section click on Scan.
-
-
  
 
 After click on scan it will take you to the next page 
 
- 
+ ![screenshot](https://github.com/tanjina907/VU_FALL22_IOT_CLASS/blob/f7dd30ed9bca18c7e1cb2e822873e7db8b4ef380/Screen%20Shot%202022-09-06%20at%204.13.51%20PM.png)
 
 
 Select the SSID and enter the password. Click join.  After few seconds it will show a success message of connection of the network 
@@ -59,7 +57,7 @@ Select the SSID and enter the password. Click join.  After few seconds it will s
 As you can see into the below picture that there is a successful connection established via the existing wifi network. 
 
 
-
+![screenshot](https://github.com/tanjina907/VU_FALL22_IOT_CLASS/blob/f7dd30ed9bca18c7e1cb2e822873e7db8b4ef380/Screen%20Shot%202022-09-06%20at%204.16.38%20PM.png)
  
 
 
@@ -67,14 +65,15 @@ To change the Network name :
  
 If you want to change the network name 
 1.	Click on the wireless from the left of the screen 
-2.	Click on modify 
-3.	Change the WIFI name to your decided name. 
-4.	You can also change the wifi key. 
-5.	Click on apply to apply the changes. 
+![screenshot](https://github.com/tanjina907/VU_FALL22_IOT_CLASS/blob/f7dd30ed9bca18c7e1cb2e822873e7db8b4ef380/Screen%20Shot%202022-09-06%20at%204.18.01%20PM.png)
+3.	Click on modify 
+4.	Change the WIFI name to your decided name. 
+5.	You can also change the wifi key. 
+6.	Click on apply to apply the changes. 
 
 Below image is after successfully changing the name.
  
-
+![screenshot](https://github.com/tanjina907/VU_FALL22_IOT_CLASS/blob/b04db47ca73934f5aa668ef94f52c869ddc1b2cc/Screen%20Shot%202022-09-06%20at%204.21.29%20PM.png)
 
 
 Connecting clients to the router :
@@ -87,10 +86,11 @@ Connected devices should show as a client
 Below is the example how the clients are showing into the network.
 
  
-
+![screenshot](https://github.com/tanjina907/VU_FALL22_IOT_CLASS/blob/b04db47ca73934f5aa668ef94f52c869ddc1b2cc/Screen%20Shot%202022-09-06%20at%204.24.31%20PM.png)
 
 
 In this network, mobile network is not showing any name it just showing a star mark. 
 
 You can also see the traffic for each network
+![screenshot](https://github.com/tanjina907/VU_FALL22_IOT_CLASS/blob/b04db47ca73934f5aa668ef94f52c869ddc1b2cc/Screen%20Shot%202022-09-06%20at%204.27.27%20PM.png)
  
