@@ -30,7 +30,7 @@ Click on submit to confirm the password.
 
 After confirming the password you should able to see the screen. 
  
-
+![Screenshot](https://github.com/tanjina907/VU_FALL22_IOT_CLASS/blob/f7dd30ed9bca18c7e1cb2e822873e7db8b4ef380/Screen%20Shot%202022-09-06%20at%204.13.33%20PM.png)
  
 Setting up the network:
 You can setup the network using the following process 
