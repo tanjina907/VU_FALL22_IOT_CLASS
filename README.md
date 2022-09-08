@@ -21,7 +21,7 @@ Visit http://192.168.8.1 in your browser.
 
 2.	After choosing your language, setup your Admin password for this site.
 
-  ![router setup](Screen Shot 2022-09-01 at 8.23.29 PM.png)
+  ![Screen Shot 2022-09-01 at 8.23.29 PM.png)](https://github.com/tanjina907/VU_FALL22_IOT_CLASS/blob/f7dd30ed9bca18c7e1cb2e822873e7db8b4ef380/Screen%20Shot%202022-09-01%20at%208.23.29%20PM.png)
 
 Click on submit to confirm the password.)
 
