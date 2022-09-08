@@ -1,24 +1,92 @@
-# VU_FALL22_IOT_CLASS
-
- VU_FALL22_IOT_CLASS
-
-Hello! My Interest in IoT is more on Health care and machine learning implecations. How the health care system can be benefited via IoT and machine learning. 
-
-Below is  my  IoT investigation links 
-
-1. Kelly J, Campbell K, Gong E, Scuffham P
-  The Internet of Things: Impact and Implications for Health Care Delivery
-  J Med Internet Res 2020;22(11):e20135
-  URL: https://www.jmir.org/2020/11/e20135
-  DOI: 10.2196/20135
+Mango Router Setup Tutorial
 
 
-2. https://rdcu.be/cUNeP
 
-3. S. B. Baker, W. Xiang and I. Atkinson, "Internet of Things for Smart Healthcare: Technologies, Challenges, and Opportunities," in IEEE Access, vol. 5,      pp. 26521-26544, 2017, doi: 10.1109/ACCESS.2017.2775180.
+Hello everyone, for my second-class assignment I have chosen the Pocket router mango to set it up.
 
-4. Sharma, Yogesh K U M A R. “Health Care Patient Monitoring Using IoT and Machine Learning.” IOSR Journal of Engineering (IOSR JEN) (2019): 68–73. Print.
+Setting Up: 
+Connect the router to a power port using an USB adaptor.
+The mini router will broadcast a Wifi Signal.  Use your laptop wifi setting to to find the wifi signal.  It should be name as GL-MT300Nv2-XXX
 
-5. https://medium.com/analytics-vidhya/iot-and-the-future-of-healthcare-4b4fa96cfb56
+After connecting into the wifi signal, using given password. The default password for this site is goodlife. 
 
-6. https://docs.aws.amazon.com/iot/latest/developerguide/aws-iot-how-it-works.html
+Setting up the router :
+
+Visit http://192.168.8.1 in your browser. 
+
+1.	Select your preferred language. 
+ 
+ 
+
+
+2.	After choosing your language, setup your Admin password for this site.
+ 
+
+Click on submit to confirm the password.
+
+After confirming the password you should able to see the screen. 
+ 
+
+ 
+Setting up the network:
+You can setup the network using the following process 
+1.	Cable (WAN) 
+2.	Repeater (Using Existing Wi-Fi)
+3.	Tethering (Using USB cable to existing network)
+4.	3G/4G modem.
+
+
+Setting up the network using the Repeater: 
+
+Using the repeater, you can connect the router to the available Wi-Fi/ mobile hotspot network.
+
+ From the repeater section click on Scan.
+
+
+ 
+
+After click on scan it will take you to the next page 
+
+ 
+
+
+Select the SSID and enter the password. Click join.  After few seconds it will show a success message of connection of the network 
+
+As you can see into the below picture that there is a successful connection established via the existing wifi network. 
+
+
+
+ 
+
+
+To change the Network name :
+ 
+If you want to change the network name 
+1.	Click on the wireless from the left of the screen 
+2.	Click on modify 
+3.	Change the WIFI name to your decided name. 
+4.	You can also change the wifi key. 
+5.	Click on apply to apply the changes. 
+
+Below image is after successfully changing the name.
+ 
+
+
+
+Connecting clients to the router :
+
+Now the router network will work as a regular wi-fi network.
+1.	Find the network as an wi-fi network from your laptop/ mobile phone device. 
+2.	Enter the password and connect. 
+
+Connected devices should show as a client 
+Below is the example how the clients are showing into the network.
+
+ 
+
+
+
+In this network, mobile network is not showing any name it just showing a star mark. 
+
+You can also see the traffic for each network
+ 
