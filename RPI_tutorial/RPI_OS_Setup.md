@@ -10,8 +10,8 @@ In this tutorial we will perform an initial install of DIET_PI on a Raspberry PI
 
 ## Prerequisites  ##
 
- 1. A laptop or desktop 
- 2. A Raspberry PI  4 
+ 1. A laptop or desktop (Mine is Macbook M1 chip)
+ 2. A Raspberry PI  4  model b
  3. A microSD card at least 8 GB
  4. WIFI ROUTER Which we have been setup befor(In this case i am using Travel Mango router)
 
