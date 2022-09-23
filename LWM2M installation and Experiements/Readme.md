@@ -113,6 +113,38 @@ java -jar leshan-client-demo/target/leshan-client-demo-*-SNAPSHOT-jar-with-depen
  Now the dietpi will show as a client end point 
 ![image](https://github.com/tanjina907/VU_FALL22_IOT_CLASS/blob/364858deabc08ca2c53f3a801cadd14655f4fbbd/LWM2M%20installation%20and%20Experiements/Image/image15.png)
 
-The following tutorial is made with the help of !(https://github.com/pschragger/IOT_Tutorials_for_VU/tree/main/RPI_DEVICE_MANAGEMENT_INSTALL_tutorial).
+
+## Bootstrap Server Setup 
+1. In order to run Bootstrap procedure with the sample, you need to download and run the Leshan Demo Bootstrap Server
+$ wget https://ci.eclipse.org/leshan/job/leshan/lastSuccessfulBuild/artifact/leshan-bsserver-demo.jar
+$ java -jar ./leshan-bsserver-demo.jar -wp 8888 -lp 5783 -slp 5784
+![image](https://github.com/tanjina907/VU_FALL22_IOT_CLASS/blob/11de8e680cc77d436efe45e7321acfbd9c40c0c8/LWM2M%20installation%20and%20Experiements/Image/image17.png) 
+2. You can now open a web browser to: http://localhost:8888 The Demo Bootstrap Server web UI will open.
+![image](https://github.com/tanjina907/VU_FALL22_IOT_CLASS/blob/11de8e680cc77d436efe45e7321acfbd9c40c0c8/LWM2M%20installation%20and%20Experiements/Image/image16.png)
+## Configure the lwm2m-client sample in the Demo Bootstrap Server:
+
+1. Click on “Add new client bootstrap configuration”
+
+2. Enter the following data:
+     Client endpoint: qemu_x86
+     ![image](https://github.com/tanjina907/VU_FALL22_IOT_CLASS/blob/11de8e680cc77d436efe45e7321acfbd9c40c0c8/LWM2M%20installation%20and%20Experiements/Image/image18.png)
+3. In the LWM2M Server tab, enter the following data:
+   LWM2M Server URL: coap://[2001:db8::2]:5683 
+   Security mode: No Security
+     ![image](https://github.com/tanjina907/VU_FALL22_IOT_CLASS/blob/11de8e680cc77d436efe45e7321acfbd9c40c0c8/LWM2M%20installation%20and%20Experiements/Image/image20.png)
+
+4.The LWM2M Bootstrap Server tab can be left intact in the default configuration (No Security).
+![image](https://github.com/tanjina907/VU_FALL22_IOT_CLASS/blob/11de8e680cc77d436efe45e7321acfbd9c40c0c8/LWM2M%20installation%20and%20Experiements/Image/image21.png)
+You can see the network build 
+
+  ![image](https://github.com/tanjina907/VU_FALL22_IOT_CLASS/blob/11de8e680cc77d436efe45e7321acfbd9c40c0c8/LWM2M%20installation%20and%20Experiements/Image/image22.png)
+
+
+
+
+
+The following tutorial is made with the help of
+1. https://github.com/pschragger/IOT_Tutorials_for_VU/tree/main/RPI_DEVICE_MANAGEMENT_INSTALL_tutorial
+2. https://docs.zephyrproject.org/latest/samples/net/lwm2m_client/README.html
 
 Thank you!
