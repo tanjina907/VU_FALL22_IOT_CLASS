@@ -14,10 +14,15 @@ We have used the DHT11 sensor. Which have 4 pins.
 
 The follwoing is the pin details . 
 
-1. VCC pin will connect  with the pin no 2 on Raspberry pi for 5v Power 
-2. Pin 2/ signal pin from sensor will connect with pin no 7 on the Raspberry pi GPIO 4
-3. We would not coonect anything with the Pin 3 of the sensor 
-4. We will connect in 4 which is ground to pin 6 of RAspberry pi.
+The following are the pin details.
+ 1. VCC pin will connect  with pin no 2 on Raspberry pi for 5v Power
+ 2. Pin 2/ signal pin from the sensor will connect with pin no 7 on the Raspberry pi GPIO 4
+ 3. We would not connect anything with the Pin 3 of the sensor
+ 4. We will connect in 4 which is ground to pin 6 of RAspberry pi.
+
+
+
+
 
 ![image](https://github.com/tanjina907/VU_FALL22_IOT_CLASS/blob/0898d92619324389ab60d4f168804f7992567088/ANALOG_Device_Tutorials/Image/image5.png)
 
